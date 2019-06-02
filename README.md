@@ -8,6 +8,6 @@
 
 [《Go并发编程实战》](books/Go并发编程实战.pdf) ——郝林
 
-[《Docker容器与容器云（第2版)》](books/Docker 容器与容器云(第2版).pdf) ——丁轶群
+[《Docker容器与容器云》](books/Docker容器与容器云.pdf) ——丁轶群
 
 
